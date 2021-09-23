@@ -23,7 +23,9 @@ If you don't have LBRY yet, download it [here](/get). You can also publish files
    ![Select Channel or Anonymous](https://spee.ch/3/3e792cfe222dd6ad.png)
 
 3. Give your content a name which could be the same as your title but with no spaces. You can use `-` in place of the space. 
+
 4. Next, type the title for your content. 
+
 5. After entering the title, click browse to browse the content you want to publish.
 
 6. On your local machine, select the content you wish to upload to Odysee. For video content, Odysee works best with MP4 files in H264/AAC format which support proper streaming (see [video publishing guide for details](/faq/video-publishing-guide)). Besides videos, other popular formats supported are MP3s, text documents like markdown (md)/HTML, PDF, CSV, and comic books (cbr, cbz). In the future, the in app player may support additional formats.
@@ -35,7 +37,8 @@ Other file types can also be uploaded, but won't be streamable via Odysee direct
 8. Choose a `Thumbnail` or `Thumbnail URL` for your content. The `Thumbnail URL` is a hyperlink to an image file which will serve as a preview for your content. It can be any image/GIF URL. The default pixel size is 800x450, but the app will scale it up/down. Images uploaded directly from your local machine as `Thumbnail` will be uploaded to [spee.ch](https://www.spee.ch).
 
 9. Next you can add tags to your content which will help categorize it for [discovery purposes](https://lbry.com/faq/trending). If it's intended for mature audiences, please add the pink `mature` tag. Next, determine any other tags that relate to the content you are publishing. Please be mindful of accuracy when tagging content as this is currently up to the publisher only and cannot be edited. If incorrect/inappropriate tags are used, your content may be filtered to provide a better user experience. In the future, this will be done through community voting and building a web of trust.
-10. Right below the tags, you will be able to check disbale or enable viewers to leave a comment on your content.
+
+10. Right below the tags, you will be able to check disable or enable viewers to leave a comment on your content.
 
 11. Type in a minimum of 0.0001 LBC deposit for the upload (default amount is higher due to publishing fees). If you are trying to outbid a user-friendly/common URL, the system will suggest a minimum bid to take over the content at that vanity URL. There may be a delay for this takeover. Making your bid higher will result in [better discovery](https://lbry.com/faq/trending) for your content. For more details regarding the URL or bid, check out our [naming document](/faq/naming).
 
@@ -97,9 +100,13 @@ First, you need to access your channel by clicking on the channel art or the ast
 ## How do I edit my existing published content?
 
 1. Click on the channel /astronaut logo on the upper right corner and select Uploads
+
 2. Select the content you want to update.
+
 3. Click `Edit`.
+
 4. You can now edit your claim information. No need to re-select the file if it's the same one or has the same url.
+
 5. When you are done, click `Save`.
 
 ## Where is my content stored and shared from? {#blobs}
