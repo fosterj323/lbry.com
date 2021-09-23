@@ -44,7 +44,7 @@ There are two ways to find channels to follow:
 2. Click "Following" from your home screen to discover and find new channels to follow using the `Discover Channels` option.
 
 ![pic](https://spee.ch/2/f847156011ad616c.png)  
-Scrolling down in the *Disover channels* view, will also show you the Trending, Top, and New listings for channels.  
+Scrolling down in the *Discover channels* view, will also show you the Trending, Top, and New listings for channels.  
 ![top-channels](https://spee.ch/6/a9e254f61d10ff25.png)  
 
 
